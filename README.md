@@ -1,7 +1,7 @@
-## Hi there 👋
+⁸## Hi there 👋
 
 <!--
-**Miguel-c-santos/Miguel-c-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Miguel-c-santos/Miguel-c-santos** is a ✨ _special_ ✨ repository because its `Meu nome é Miguel, tenho 16 e gosto de strogonoff` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
